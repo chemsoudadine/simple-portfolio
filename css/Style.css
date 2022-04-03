@@ -1,0 +1,8 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    overflow-x: hidden;
+}
+.bg-My {
+    background-image: linear-gradient(to right, rgb(0,121,213), rgb(0,156,228));
+}
